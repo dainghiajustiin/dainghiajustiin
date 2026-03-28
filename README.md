@@ -9,15 +9,15 @@
 <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Profile Image" width="80"/>     [![Typing SVG](https://readme-typing-svg.demolab.com?font=roboto&pause=1000&color=FFFC00&width=500&lines=I'm+a+student+from+Viet+Nam+!!!;I'm+a+Passionate+Developer+!!!)](https://git.io/typing-svg)
 
 # 💫 About me:
-🔭 I am currently studying at PTIT Hanoi.
+🔭 I'm dainghiajustiin, from D25CQCE07 - B, PTIT. If possible, let's be better together.
 
-🔮 I aspire to get a ticket to ICPC Regional Vietnam 2026.
+🔮 I love Math📒, Technology💻, Physics🔍, English📜 and Chess♟️
 
-👨‍💻 My fav project will be published soon... :D
+👨‍💻 Follow me on YouTube and Github @dainghiajustiin
 
 # 🎖️ Language:
 ![](https://camo.githubusercontent.com/c7540eeb3a57c876017928dd6080019f0c56ab79630a7de2e01d217d169cedcf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://camo.githubusercontent.com/43de341c9b8b09764cc735349316e938d77a1da3751ae8bfaec066e3c3450bec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534)
 ![](https://camo.githubusercontent.com/c40c14f1c1bba5b3aac3281799882be1612b4c217d0340623f26f071739aac84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465)
 
